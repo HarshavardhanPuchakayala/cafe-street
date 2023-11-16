@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function App() {
   return (
-    <div>App</div>
+    <div>
+      under construction....please vist later
+    </div>
   )
 }
